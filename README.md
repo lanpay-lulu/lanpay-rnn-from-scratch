@@ -1,5 +1,8 @@
 # Implementing Recurrent Neural Network from Scratch
 
+## Reference
+This project refers to [pangolulu](https://github.com/pangolulu/rnn-from-scratch).
+
 ## RNN
 This branch is written by Lanpay and implement a new structure to process RNNs.
 
